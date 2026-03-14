@@ -15,6 +15,6 @@ Our goal is to improve the **speed** and **accuracy** of wildfire alerts. By com
 
 
 ---
-*This project is collaborative. Please refer to the **Projects** tab for current tasks and the **CONTRIBUTING.md** (coming soon) for development standards.*
+*Please refer to the **Projects** tab for current tasks, and the **CONTRIBUTING.md** (coming soon) for development standards.*
 
 
